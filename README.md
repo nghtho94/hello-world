@@ -1,2 +1,6 @@
 # hello-world
-testing
+
+
+var func = func(){
+  alert('testing');
+}
